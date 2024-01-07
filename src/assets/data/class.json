@@ -1,0 +1,2185 @@
+{
+    "神龙之子（主角琉尔）": {
+        "name": "神龙之子（主角琉尔）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 6,
+            "mag": 0,
+            "dex": 2,
+            "spd": 7,
+            "lck": 2,
+            "def": 5,
+            "res": 3,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "res": 10,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 41,
+            "mag": 25,
+            "dex": 36,
+            "spd": 43,
+            "lck": 35,
+            "def": 35,
+            "res": 25,
+            "bld": 13
+        }
+    },
+    "神龙之王": {
+        "name": "神龙之王",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 24,
+            "str": 8,
+            "mag": 1,
+            "dex": 4,
+            "spd": 8,
+            "lck": 3,
+            "def": 6,
+            "res": 5,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 15,
+            "lck": 10,
+            "def": 15,
+            "res": 15,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 41,
+            "mag": 25,
+            "dex": 36,
+            "spd": 43,
+            "lck": 35,
+            "def": 35,
+            "res": 25,
+            "bld": 13
+        }
+    },
+    "王室贵族（锡莉奴）": {
+        "name": "王室贵族（锡莉奴）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 5,
+            "mag": 8,
+            "dex": 5,
+            "spd": 8,
+            "lck": 4,
+            "def": 3,
+            "res": 5,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 0,
+            "str": 5,
+            "mag": 10,
+            "dex": 5,
+            "spd": 5,
+            "lck": 20,
+            "def": 5,
+            "res": 10,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 56,
+            "str": 38,
+            "mag": 37,
+            "dex": 29,
+            "spd": 41,
+            "lck": 50,
+            "def": 27,
+            "res": 35,
+            "bld": 11
+        }
+    },
+    "弗罗刺祝": {
+        "name": "弗罗刺祝",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 6,
+            "mag": 9,
+            "dex": 6,
+            "spd": 9,
+            "lck": 5,
+            "def": 4,
+            "res": 6,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 10,
+            "mag": 15,
+            "dex": 5,
+            "spd": 5,
+            "lck": 20,
+            "def": 5,
+            "res": 15,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 56,
+            "str": 38,
+            "mag": 37,
+            "dex": 29,
+            "spd": 41,
+            "lck": 50,
+            "def": 27,
+            "res": 35,
+            "bld": 11
+        }
+    },
+    "王室贵族（阿尔弗雷德）": {
+        "name": "王室贵族（阿尔弗雷德）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 24,
+            "str": 7,
+            "mag": 2,
+            "dex": 6,
+            "spd": 5,
+            "lck": 4,
+            "def": 6,
+            "res": 4,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 15,
+            "mag": 0,
+            "dex": 5,
+            "spd": 5,
+            "lck": 15,
+            "def": 20,
+            "res": 5,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 71,
+            "str": 45,
+            "mag": 20,
+            "dex": 33,
+            "spd": 35,
+            "lck": 45,
+            "def": 37,
+            "res": 21,
+            "bld": 16
+        }
+    },
+    "阿巴尼尔": {
+        "name": "阿巴尼尔",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 25,
+            "str": 8,
+            "mag": 4,
+            "dex": 7,
+            "spd": 6,
+            "lck": 6,
+            "def": 8,
+            "res": 6,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 15,
+            "mag": 0,
+            "dex": 5,
+            "spd": 10,
+            "lck": 20,
+            "def": 25,
+            "res": 5,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 71,
+            "str": 45,
+            "mag": 20,
+            "dex": 33,
+            "spd": 35,
+            "lck": 45,
+            "def": 37,
+            "res": 21,
+            "bld": 16
+        }
+    },
+    "领主（史塔卢克）": {
+        "name": "领主（史塔卢克）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 7,
+            "mag": 1,
+            "dex": 10,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "res": 3,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 25,
+            "spd": 10,
+            "lck": 5,
+            "def": 10,
+            "res": 0,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 41,
+            "mag": 20,
+            "dex": 41,
+            "spd": 40,
+            "lck": 30,
+            "def": 29,
+            "res": 19,
+            "bld": 15
+        }
+    },
+    "狙击兵": {
+        "name": "狙击兵",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 8,
+            "mag": 1,
+            "dex": 12,
+            "spd": 8,
+            "lck": 4,
+            "def": 6,
+            "res": 4,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 30,
+            "spd": 10,
+            "lck": 5,
+            "def": 15,
+            "res": 5,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 41,
+            "mag": 20,
+            "dex": 41,
+            "spd": 40,
+            "lck": 30,
+            "def": 29,
+            "res": 19,
+            "bld": 15
+        }
+    },
+    "领主（帝亚曼德）": {
+        "name": "领主（帝亚曼德）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 8,
+            "mag": 1,
+            "dex": 7,
+            "spd": 8,
+            "lck": 3,
+            "def": 5,
+            "res": 3,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 20,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 5,
+            "def": 10,
+            "res": 0,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 77,
+            "str": 43,
+            "mag": 23,
+            "dex": 23,
+            "spd": 38,
+            "lck": 25,
+            "def": 38,
+            "res": 20,
+            "bld": 20
+        }
+    },
+    "继承者": {
+        "name": "继承者",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 25,
+            "str": 10,
+            "mag": 2,
+            "dex": 8,
+            "spd": 9,
+            "lck": 4,
+            "def": 6,
+            "res": 3,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 20,
+            "mag": 0,
+            "dex": 10,
+            "spd": 15,
+            "lck": 10,
+            "def": 15,
+            "res": 0,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 77,
+            "str": 43,
+            "mag": 23,
+            "dex": 23,
+            "spd": 38,
+            "lck": 25,
+            "def": 38,
+            "res": 20,
+            "bld": 20
+        }
+    },
+    "驯兽师（艾比）": {
+        "name": "驯兽师（艾比）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 1,
+            "mag": 8,
+            "dex": 4,
+            "spd": 4,
+            "lck": 1,
+            "def": 6,
+            "res": 8,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 0,
+            "mag": 20,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 10,
+            "res": 20,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 60,
+            "str": 31,
+            "mag": 40,
+            "dex": 25,
+            "spd": 34,
+            "lck": 20,
+            "def": 31,
+            "res": 40,
+            "bld": 15
+        }
+    },
+    "林德普尔姆": {
+        "name": "林德普尔姆",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 2,
+            "mag": 10,
+            "dex": 5,
+            "spd": 5,
+            "lck": 1,
+            "def": 8,
+            "res": 9,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 0,
+            "mag": 25,
+            "dex": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": 15,
+            "res": 25,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 60,
+            "str": 31,
+            "mag": 40,
+            "dex": 25,
+            "spd": 34,
+            "lck": 20,
+            "def": 31,
+            "res": 40,
+            "bld": 15
+        }
+    },
+    "驯兽师（奥尔坦希亚）": {
+        "name": "驯兽师（奥尔坦希亚）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 18,
+            "str": 0,
+            "mag": 5,
+            "dex": 9,
+            "spd": 8,
+            "lck": 6,
+            "def": 1,
+            "res": 11,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 0,
+            "str": 0,
+            "mag": 15,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "res": 25,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 47,
+            "str": 26,
+            "mag": 39,
+            "dex": 36,
+            "spd": 45,
+            "lck": 53,
+            "def": 19,
+            "res": 51,
+            "bld": 11
+        }
+    },
+    "斯雷普尼尔": {
+        "name": "斯雷普尼尔",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 18,
+            "str": 1,
+            "mag": 7,
+            "dex": 10,
+            "spd": 10,
+            "lck": 8,
+            "def": 2,
+            "res": 13,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 0,
+            "str": 0,
+            "mag": 20,
+            "dex": 15,
+            "spd": 15,
+            "lck": 15,
+            "def": 0,
+            "res": 30,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 47,
+            "str": 26,
+            "mag": 39,
+            "dex": 36,
+            "spd": 45,
+            "lck": 53,
+            "def": 19,
+            "res": 51,
+            "bld": 11
+        }
+    },
+    "义警队（蜜丝提拉）": {
+        "name": "义警队（蜜丝提拉）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 24,
+            "str": 8,
+            "mag": 1,
+            "dex": 5,
+            "spd": 7,
+            "lck": 3,
+            "def": 8,
+            "res": 1,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 5,
+            "lck": 5,
+            "def": 20,
+            "res": 0,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 63,
+            "str": 35,
+            "mag": 27,
+            "dex": 47,
+            "spd": 41,
+            "lck": 37,
+            "def": 33,
+            "res": 26,
+            "bld": 12
+        }
+    },
+    "草叉枪兵": {
+        "name": "草叉枪兵",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 25,
+            "str": 9,
+            "mag": 2,
+            "dex": 6,
+            "spd": 9,
+            "lck": 4,
+            "def": 10,
+            "res": 3,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 5,
+            "def": 20,
+            "res": 5,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 63,
+            "str": 35,
+            "mag": 27,
+            "dex": 47,
+            "spd": 41,
+            "lck": 37,
+            "def": 33,
+            "res": 26,
+            "bld": 12
+        }
+    },
+    "义警队（佛贾特）": {
+        "name": "义警队（佛贾特）",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 5,
+            "mag": 1,
+            "dex": 9,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "res": 3,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 5,
+            "mag": 0,
+            "dex": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 5,
+            "res": 15,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": "\n67",
+            "str": 35,
+            "mag": 28,
+            "dex": 33,
+            "spd": 49,
+            "lck": 33,
+            "def": 28,
+            "res": 31,
+            "bld": 16
+        }
+    },
+    "邱比特": {
+        "name": "邱比特",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 6,
+            "mag": 3,
+            "dex": 10,
+            "spd": 8,
+            "lck": 3,
+            "def": 5,
+            "res": 5,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 5,
+            "mag": 5,
+            "dex": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 20,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": "\n67",
+            "str": 35,
+            "mag": 28,
+            "dex": 33,
+            "spd": 49,
+            "lck": 33,
+            "def": 28,
+            "res": 31,
+            "bld": 16
+        }
+    },
+    "舞蹈家（赛安达斯）": {
+        "name": "舞蹈家（赛安达斯）",
+        "classType": "SPECIAL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 5,
+            "mag": 1,
+            "dex": 8,
+            "spd": 8,
+            "lck": 5,
+            "def": 2,
+            "res": 5,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 10,
+            "mag": 0,
+            "dex": 5,
+            "spd": 15,
+            "lck": 20,
+            "def": 10,
+            "res": 20,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 64,
+            "str": 36,
+            "mag": 31,
+            "dex": 29,
+            "spd": 43,
+            "lck": 39,
+            "def": 24,
+            "res": 26,
+            "bld": 15
+        }
+    },
+    "邪龙之女（贝珥）": {
+        "name": "邪龙之女（贝珥）",
+        "classType": "SPECIAL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 3,
+            "mag": 7,
+            "dex": 4,
+            "spd": 5,
+            "lck": 3,
+            "def": 2,
+            "res": 7,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 25,
+            "dex": 10,
+            "spd": 5,
+            "lck": 0,
+            "def": 10,
+            "res": 25,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 48,
+            "str": 35,
+            "mag": 48,
+            "dex": 36,
+            "spd": 33,
+            "lck": 30,
+            "def": 25,
+            "res": 41,
+            "bld": 11
+        }
+    },
+    "邪龙之女（爱尔）": {
+        "name": "邪龙之女（爱尔）",
+        "classType": "SPECIAL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 15,
+            "mag": 10,
+            "dex": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 15,
+            "res": 15,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 65,
+            "str": 39,
+            "mag": 30,
+            "dex": 32,
+            "spd": 45,
+            "lck": 37,
+            "def": 33,
+            "res": 31,
+            "bld": 13
+        }
+    },
+    "邪龙之子（拉法尔）": {
+        "name": "邪龙之子（拉法尔）",
+        "classType": "SPECIAL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 20,
+            "mag": 0,
+            "dex": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 20,
+            "res": 10,
+            "bld": 10
+        },
+        "highestAttribute": {
+            "hp": 76,
+            "str": 46,
+            "mag": 13,
+            "dex": 30,
+            "spd": 33,
+            "lck": 19,
+            "def": 42,
+            "res": 20,
+            "bld": 13
+        }
+    },
+    "美露莘（赛勒斯提雅）": {
+        "name": "美露莘（赛勒斯提雅）",
+        "classType": "SPECIAL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 7,
+            "mag": 8,
+            "dex": 6,
+            "spd": 8,
+            "lck": 2,
+            "def": 6,
+            "res": 9,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 10,
+            "dex": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 75,
+            "str": 40,
+            "mag": 39,
+            "dex": 33,
+            "spd": 35,
+            "lck": 27,
+            "def": 33,
+            "res": 36,
+            "bld": 12
+        }
+    },
+    "刀剑战士": {
+        "name": "刀剑战士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 5,
+            "mag": 0,
+            "dex": 7,
+            "spd": 8,
+            "lck": 2,
+            "def": 3,
+            "res": 2,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 15,
+            "spd": 20,
+            "lck": 10,
+            "def": 0,
+            "res": 15,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 67,
+            "str": 40,
+            "mag": 20,
+            "dex": 37,
+            "spd": 41,
+            "lck": 33,
+            "def": 27,
+            "res": 22,
+            "bld": 12
+        }
+    },
+    "刀剑将领": {
+        "name": "刀剑将领",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 6,
+            "mag": 1,
+            "dex": 9,
+            "spd": 11,
+            "lck": 4,
+            "def": 4,
+            "res": 3,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 15,
+            "spd": 20,
+            "lck": 15,
+            "def": 0,
+            "res": 15,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 67,
+            "str": 40,
+            "mag": 25,
+            "dex": 44,
+            "spd": 49,
+            "lck": 37,
+            "def": 27,
+            "res": 26,
+            "bld": 12
+        }
+    },
+    "无畏英雄": {
+        "name": "无畏英雄",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 8,
+            "mag": 0,
+            "dex": 8,
+            "spd": 9,
+            "lck": 3,
+            "def": 5,
+            "res": 2,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 15,
+            "lck": 15,
+            "def": 0,
+            "res": 10,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 75,
+            "str": 45,
+            "mag": 20,
+            "dex": 37,
+            "spd": 41,
+            "lck": 33,
+            "def": 34,
+            "res": 22,
+            "bld": 16
+        }
+    },
+    "枪战士": {
+        "name": "枪战士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 7,
+            "mag": 2,
+            "dex": 8,
+            "spd": 6,
+            "lck": 2,
+            "def": 4,
+            "res": 2,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 5,
+            "dex": 20,
+            "spd": 5,
+            "lck": 0,
+            "def": 10,
+            "res": 5,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 69,
+            "str": 43,
+            "mag": 29,
+            "dex": 47,
+            "spd": 36,
+            "lck": 25,
+            "def": 28,
+            "res": 25,
+            "bld": 12
+        }
+    },
+    "枪斗士": {
+        "name": "枪斗士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 24,
+            "str": 9,
+            "mag": 1,
+            "dex": 9,
+            "spd": 7,
+            "lck": 3,
+            "def": 6,
+            "res": 2,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 15,
+            "mag": 5,
+            "dex": 20,
+            "spd": 10,
+            "lck": 5,
+            "def": 15,
+            "res": 5,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 76,
+            "str": 46,
+            "mag": 29,
+            "dex": 47,
+            "spd": 36,
+            "lck": 25,
+            "def": 35,
+            "res": 25,
+            "bld": 15
+        }
+    },
+    "皇家骑士": {
+        "name": "皇家骑士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 7,
+            "mag": 5,
+            "dex": 9,
+            "spd": 8,
+            "lck": 5,
+            "def": 5,
+            "res": 4,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 10,
+            "mag": 15,
+            "dex": 15,
+            "spd": 15,
+            "lck": 10,
+            "def": 5,
+            "res": 20,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 69,
+            "str": 43,
+            "mag": 39,
+            "dex": 47,
+            "spd": 40,
+            "lck": 32,
+            "def": 28,
+            "res": 36,
+            "bld": 12
+        }
+    },
+    "斧战士": {
+        "name": "斧战士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 26,
+            "str": 9,
+            "mag": 0,
+            "dex": 5,
+            "spd": 5,
+            "lck": 1,
+            "def": 3,
+            "res": 1,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 25,
+            "str": 20,
+            "mag": 0,
+            "dex": 5,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 94,
+            "str": 46,
+            "mag": 17,
+            "dex": 23,
+            "spd": 29,
+            "lck": 23,
+            "def": 20,
+            "res": 11,
+            "bld": 20
+        }
+    },
+    "狂斗士": {
+        "name": "狂斗士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 29,
+            "str": 13,
+            "mag": 0,
+            "dex": 6,
+            "spd": 6,
+            "lck": 2,
+            "def": 3,
+            "res": 2,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 30,
+            "str": 30,
+            "mag": 0,
+            "dex": 5,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "bld": 10
+        },
+        "highestAttribute": {
+            "hp": 96,
+            "str": 49,
+            "mag": 17,
+            "dex": 23,
+            "spd": 29,
+            "lck": 23,
+            "def": 20,
+            "res": 11,
+            "bld": 24
+        }
+    },
+    "勇士": {
+        "name": "勇士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 27,
+            "str": 12,
+            "mag": 1,
+            "dex": 7,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "res": 3,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 25,
+            "str": 20,
+            "mag": 0,
+            "dex": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 5,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 94,
+            "str": 46,
+            "mag": 20,
+            "dex": 30,
+            "spd": 33,
+            "lck": 23,
+            "def": 27,
+            "res": 18,
+            "bld": 20
+        }
+    },
+    "弓箭手": {
+        "name": "弓箭手",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 19,
+            "str": 6,
+            "mag": 0,
+            "dex": 9,
+            "spd": 5,
+            "lck": 2,
+            "def": 2,
+            "res": 1,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "dex": 25,
+            "spd": 10,
+            "lck": 5,
+            "def": 5,
+            "res": 0,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 38,
+            "mag": 20,
+            "dex": 45,
+            "spd": 32,
+            "lck": 28,
+            "def": 23,
+            "res": 24,
+            "bld": 14
+        }
+    },
+    "狙击手": {
+        "name": "狙击手",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 8,
+            "mag": 1,
+            "dex": 11,
+            "spd": 6,
+            "lck": 3,
+            "def": 3,
+            "res": 1,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 15,
+            "mag": 0,
+            "dex": 30,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "res": 0,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 45,
+            "mag": 20,
+            "dex": 52,
+            "spd": 32,
+            "lck": 28,
+            "def": 29,
+            "res": 24,
+            "bld": 14
+        }
+    },
+    "弓骑士": {
+        "name": "弓骑士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 7,
+            "mag": 2,
+            "dex": 10,
+            "spd": 8,
+            "lck": 3,
+            "def": 3,
+            "res": 3,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 20,
+            "spd": 20,
+            "lck": 15,
+            "def": 0,
+            "res": 15,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 38,
+            "mag": 23,
+            "dex": 45,
+            "spd": 37,
+            "lck": 30,
+            "def": 23,
+            "res": 29,
+            "bld": 14
+        }
+    },
+    "重剑兵": {
+        "name": "重剑兵",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 25,
+            "str": 8,
+            "mag": 0,
+            "dex": 6,
+            "spd": 1,
+            "lck": 2,
+            "def": 12,
+            "res": 0,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "res": 0,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 75,
+            "str": 42,
+            "mag": 16,
+            "dex": 39,
+            "spd": 17,
+            "lck": 25,
+            "def": 51,
+            "res": 16,
+            "bld": 20
+        }
+    },
+    "重枪兵": {
+        "name": "重枪兵",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 25,
+            "str": 8,
+            "mag": 0,
+            "dex": 6,
+            "spd": 1,
+            "lck": 2,
+            "def": 12,
+            "res": 0,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "res": 0,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 75,
+            "str": 42,
+            "mag": 16,
+            "dex": 39,
+            "spd": 17,
+            "lck": 25,
+            "def": 51,
+            "res": 16,
+            "bld": 20
+        }
+    },
+    "重斧兵": {
+        "name": "重斧兵",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 25,
+            "str": 8,
+            "mag": 0,
+            "dex": 6,
+            "spd": 1,
+            "lck": 2,
+            "def": 12,
+            "res": 0,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "res": 0,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 75,
+            "str": 42,
+            "mag": 16,
+            "dex": 39,
+            "spd": 17,
+            "lck": 25,
+            "def": 51,
+            "res": 16,
+            "bld": 20
+        }
+    },
+    "将军": {
+        "name": "将军",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 28,
+            "str": 11,
+            "mag": 1,
+            "dex": 7,
+            "spd": 2,
+            "lck": 3,
+            "def": 14,
+            "res": 1,
+            "bld": 10
+        },
+        "growthRate": {
+            "hp": 25,
+            "str": 20,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "res": 0,
+            "bld": 10
+        },
+        "highestAttribute": {
+            "hp": 86,
+            "str": 47,
+            "mag": 16,
+            "dex": 39,
+            "spd": 17,
+            "lck": 25,
+            "def": 55,
+            "res": 16,
+            "bld": 25
+        }
+    },
+    "英勇骑士": {
+        "name": "英勇骑士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 26,
+            "str": 9,
+            "mag": 2,
+            "dex": 8,
+            "spd": 5,
+            "lck": 3,
+            "def": 13,
+            "res": 2,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "dex": 15,
+            "spd": 0,
+            "lck": 5,
+            "def": 25,
+            "res": 10,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 75,
+            "str": 42,
+            "mag": 19,
+            "dex": 43,
+            "spd": 25,
+            "lck": 30,
+            "def": 51,
+            "res": 22,
+            "bld": 20
+        }
+    },
+    "剑骑士": {
+        "name": "剑骑士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 6,
+            "mag": 1,
+            "dex": 8,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "res": 2,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "res": 10,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 69,
+            "str": 40,
+            "mag": 21,
+            "dex": 41,
+            "spd": 37,
+            "lck": 30,
+            "def": 27,
+            "res": 29,
+            "bld": 12
+        }
+    },
+    "枪骑士": {
+        "name": "枪骑士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 6,
+            "mag": 1,
+            "dex": 8,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "res": 2,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "res": 10,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 69,
+            "str": 40,
+            "mag": 21,
+            "dex": 41,
+            "spd": 37,
+            "lck": 30,
+            "def": 27,
+            "res": 29,
+            "bld": 12
+        }
+    },
+    "斧骑士": {
+        "name": "斧骑士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 6,
+            "mag": 1,
+            "dex": 8,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "res": 2,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "res": 10,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 69,
+            "str": 40,
+            "mag": 21,
+            "dex": 41,
+            "spd": 37,
+            "lck": 30,
+            "def": 27,
+            "res": 29,
+            "bld": 12
+        }
+    },
+    "圣骑士": {
+        "name": "圣骑士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 25,
+            "str": 8,
+            "mag": 2,
+            "dex": 10,
+            "spd": 8,
+            "lck": 3,
+            "def": 6,
+            "res": 3,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 15,
+            "lck": 10,
+            "def": 15,
+            "res": 15,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 77,
+            "str": 45,
+            "mag": 21,
+            "dex": 45,
+            "spd": 37,
+            "lck": 30,
+            "def": 35,
+            "res": 29,
+            "bld": 16
+        }
+    },
+    "狼骑士": {
+        "name": "狼骑士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 23,
+            "str": 6,
+            "mag": 3,
+            "dex": 9,
+            "spd": 10,
+            "lck": 4,
+            "def": 4,
+            "res": 4,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 10,
+            "str": 5,
+            "mag": 0,
+            "dex": 15,
+            "spd": 20,
+            "lck": 20,
+            "def": 5,
+            "res": 20,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 69,
+            "str": 40,
+            "mag": 26,
+            "dex": 41,
+            "spd": 45,
+            "lck": 34,
+            "def": 27,
+            "res": 33,
+            "bld": 12
+        }
+    },
+    "剑飞马骑士": {
+        "name": "剑飞马骑士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 5,
+            "mag": 2,
+            "dex": 7,
+            "spd": 9,
+            "lck": 3,
+            "def": 3,
+            "res": 7,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 10,
+            "mag": 5,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "res": 10,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 40,
+            "mag": 31,
+            "dex": 43,
+            "spd": 38,
+            "lck": 25,
+            "def": 27,
+            "res": 22,
+            "bld": 14
+        }
+    },
+    "枪飞马骑士": {
+        "name": "枪飞马骑士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 5,
+            "mag": 2,
+            "dex": 7,
+            "spd": 9,
+            "lck": 3,
+            "def": 3,
+            "res": 7,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 10,
+            "mag": 5,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "res": 10,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 40,
+            "mag": 31,
+            "dex": 43,
+            "spd": 38,
+            "lck": 25,
+            "def": 27,
+            "res": 22,
+            "bld": 14
+        }
+    },
+    "斧飞马骑士": {
+        "name": "斧飞马骑士",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 5,
+            "mag": 2,
+            "dex": 7,
+            "spd": 9,
+            "lck": 3,
+            "def": 3,
+            "res": 7,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 10,
+            "mag": 5,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "res": 10,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 40,
+            "mag": 31,
+            "dex": 43,
+            "spd": 38,
+            "lck": 25,
+            "def": 27,
+            "res": 22,
+            "bld": 14
+        }
+    },
+    "格里芬骑士": {
+        "name": "格里芬骑士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 7,
+            "mag": 3,
+            "dex": 10,
+            "spd": 11,
+            "lck": 5,
+            "def": 4,
+            "res": 9,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 0,
+            "str": 10,
+            "mag": 15,
+            "dex": 15,
+            "spd": 20,
+            "lck": 15,
+            "def": 0,
+            "res": 15,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 68,
+            "str": 40,
+            "mag": 37,
+            "dex": 48,
+            "spd": 49,
+            "lck": 35,
+            "def": 27,
+            "res": 35,
+            "bld": 14
+        }
+    },
+    "飞龙骑士": {
+        "name": "飞龙骑士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 25,
+            "str": 9,
+            "mag": 1,
+            "dex": 8,
+            "spd": 9,
+            "lck": 3,
+            "def": 6,
+            "res": 5,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "dex": 10,
+            "spd": 5,
+            "lck": 5,
+            "def": 20,
+            "res": 5,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 83,
+            "str": 46,
+            "mag": 31,
+            "dex": 43,
+            "spd": 38,
+            "lck": 25,
+            "def": 35,
+            "res": 22,
+            "bld": 18
+        }
+    },
+    "魔法师": {
+        "name": "魔法师",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 18,
+            "str": 1,
+            "mag": 7,
+            "dex": 6,
+            "spd": 6,
+            "lck": 2,
+            "def": 1,
+            "res": 7,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 0,
+            "str": 0,
+            "mag": 25,
+            "dex": 5,
+            "spd": 0,
+            "lck": 5,
+            "def": 0,
+            "res": 25,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 43,
+            "str": 26,
+            "mag": 40,
+            "dex": 28,
+            "spd": 30,
+            "lck": 24,
+            "def": 20,
+            "res": 40,
+            "bld": 11
+        }
+    },
+    "圣者": {
+        "name": "圣者",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 1,
+            "mag": 9,
+            "dex": 8,
+            "spd": 7,
+            "lck": 3,
+            "def": 3,
+            "res": 9,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 0,
+            "str": 0,
+            "mag": 30,
+            "dex": 5,
+            "spd": 0,
+            "lck": 15,
+            "def": 0,
+            "res": 30,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 43,
+            "str": 26,
+            "mag": 48,
+            "dex": 34,
+            "spd": 30,
+            "lck": 30,
+            "def": 20,
+            "res": 44,
+            "bld": 11
+        }
+    },
+    "魔法师骑士": {
+        "name": "魔法师骑士",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 21,
+            "str": 5,
+            "mag": 7,
+            "dex": 8,
+            "spd": 9,
+            "lck": 2,
+            "def": 3,
+            "res": 8,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 5,
+            "mag": 25,
+            "dex": 0,
+            "spd": 5,
+            "lck": 5,
+            "def": 10,
+            "res": 25,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 47,
+            "str": 35,
+            "mag": 40,
+            "dex": 28,
+            "spd": 32,
+            "lck": 24,
+            "def": 26,
+            "res": 40,
+            "bld": 12
+        }
+    },
+    "僧侣": {
+        "name": "僧侣",
+        "classType": "LOW_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 18,
+            "str": 3,
+            "mag": 5,
+            "dex": 6,
+            "spd": 5,
+            "lck": 3,
+            "def": 3,
+            "res": 8,
+            "bld": 3
+        },
+        "growthRate": {
+            "hp": 0,
+            "str": 10,
+            "mag": 25,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": 10,
+            "res": 20,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 55,
+            "str": 28,
+            "mag": 41,
+            "dex": 26,
+            "spd": 28,
+            "lck": 29,
+            "def": 20,
+            "res": 39,
+            "bld": 13
+        }
+    },
+    "僧侣大师": {
+        "name": "僧侣大师",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 6,
+            "mag": 5,
+            "dex": 6,
+            "spd": 5,
+            "lck": 4,
+            "def": 4,
+            "res": 7,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 10,
+            "mag": 20,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": 15,
+            "res": 25,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 66,
+            "str": 38,
+            "mag": 41,
+            "dex": 26,
+            "spd": 28,
+            "lck": 29,
+            "def": 27,
+            "res": 39,
+            "bld": 15
+        }
+    },
+    "主教": {
+        "name": "主教",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 3,
+            "mag": 8,
+            "dex": 8,
+            "spd": 6,
+            "lck": 5,
+            "def": 3,
+            "res": 10,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 0,
+            "str": 0,
+            "mag": 25,
+            "dex": 0,
+            "spd": 5,
+            "lck": 30,
+            "def": 0,
+            "res": 30,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 55,
+            "str": 28,
+            "mag": 45,
+            "dex": 31,
+            "spd": 32,
+            "lck": 38,
+            "def": 20,
+            "res": 48,
+            "bld": 13
+        }
+    },
+    "小偷": {
+        "name": "小偷",
+        "classType": "SPECIAL",
+        "attributeCorrectedValue": {
+            "hp": 22,
+            "str": 5,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 2,
+            "def": 6,
+            "res": 2,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 10,
+            "mag": 0,
+            "dex": 20,
+            "spd": 15,
+            "lck": 15,
+            "def": 15,
+            "res": 5,
+            "bld": 0
+        },
+        "highestAttribute": {
+            "hp": 60,
+            "str": 43,
+            "mag": 22,
+            "dex": 51,
+            "spd": 42,
+            "lck": 30,
+            "def": 33,
+            "res": 23,
+            "bld": 13
+        }
+    },
+    "附魔师": {
+        "name": "附魔师",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 5,
+            "str": 15,
+            "mag": 15,
+            "dex": 15,
+            "spd": 10,
+            "lck": 15,
+            "def": 5,
+            "res": 5,
+            "bld": 5
+        },
+        "highestAttribute": {
+            "hp": 53,
+            "str": 25,
+            "mag": 25,
+            "dex": 43,
+            "spd": 39,
+            "lck": 42,
+            "def": 20,
+            "res": 22,
+            "bld": 11
+        }
+    },
+    "魔法加农炮兵": {
+        "name": "魔法加农炮兵",
+        "classType": "HIGH_LEVEL",
+        "attributeCorrectedValue": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 15,
+            "str": 10,
+            "mag": 0,
+            "dex": 15,
+            "spd": 5,
+            "lck": 10,
+            "def": 20,
+            "res": 5,
+            "bld": 10
+        },
+        "highestAttribute": {
+            "hp": 73,
+            "str": 45,
+            "mag": 23,
+            "dex": 43,
+            "spd": 23,
+            "lck": 31,
+            "def": 49,
+            "res": 24,
+            "bld": 18
+        }
+    }
+}

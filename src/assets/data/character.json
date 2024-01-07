@@ -1,0 +1,1724 @@
+{
+    "琉尔": {
+        "avatar":"MAlearFE17Portrait.webp",
+        "name": "琉尔",
+        "className": "神龙之子（主角琉尔）",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 1
+        },
+        "initAttribute": {
+            "hp": 22,
+            "str": 6,
+            "mag": 0,
+            "dex": 5,
+            "spd": 7,
+            "lck": 5,
+            "def": 5,
+            "res": 3,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 60,
+            "str": 35,
+            "mag": 20,
+            "dex": 45,
+            "spd": 50,
+            "lck": 25,
+            "def": 40,
+            "res": 25,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": 0,
+            "dex": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "凡德雷": {
+        "avatar":"VanderFE17Portrait.webp",
+        "name": "凡德雷",
+        "className": "圣骑士",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 15
+        },
+        "initAttribute": {
+            "hp": 40,
+            "str": 11,
+            "mag": 5,
+            "dex": 10,
+            "spd": 8,
+            "lck": 6,
+            "def": 10,
+            "res": 8,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 60,
+            "str": 25,
+            "mag": 10,
+            "dex": 25,
+            "spd": 35,
+            "lck": 10,
+            "def": 35,
+            "res": 20,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": -1,
+            "dex": 1,
+            "spd": -2,
+            "lck": 0,
+            "def": 3,
+            "res": -2,
+            "bld": 0
+        }
+    },
+    "柯岚": {
+        "avatar":"ClanneFE17Portrait.webp",
+        "name": "柯岚",
+        "className": "魔法师",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 1
+        },
+        "initAttribute": {
+            "hp": 19,
+            "str": 1,
+            "mag": 8,
+            "dex": 11,
+            "spd": 9,
+            "lck": 4,
+            "def": 4,
+            "res": 7,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 40,
+            "str": 35,
+            "mag": 10,
+            "dex": 40,
+            "spd": 50,
+            "lck": 20,
+            "def": 30,
+            "res": 25,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": -1,
+            "dex": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": -2,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "芙岚": {
+        "avatar":"FrammeFE17Portrait.webp",
+        "name": "芙岚",
+        "className": "僧侣",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 1
+        },
+        "initAttribute": {
+            "hp": 18,
+            "str": 3,
+            "mag": 5,
+            "dex": 8,
+            "spd": 7,
+            "lck": 5,
+            "def": 4,
+            "res": 8,
+            "bld": 3
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 30,
+            "mag": 25,
+            "dex": 35,
+            "spd": 55,
+            "lck": 25,
+            "def": 25,
+            "res": 30,
+            "bld": 0
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 1,
+            "dex": -1,
+            "spd": 2,
+            "lck": 1,
+            "def": -1,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "阿尔弗雷德": {
+        "avatar":"AlfredFE17Portrait.webp",
+        "name": "阿尔弗雷德",
+        "className": "王室贵族（阿尔弗雷德）",
+        "level": {
+            "showLevel": 5,
+            "actualLevel": 5
+        },
+        "initAttribute": {
+            "hp": 27,
+            "str": 9,
+            "mag": 2,
+            "dex": 10,
+            "spd": 6,
+            "lck": 8,
+            "def": 8,
+            "res": 5,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 65,
+            "str": 40,
+            "mag": 5,
+            "dex": 35,
+            "spd": 40,
+            "lck": 40,
+            "def": 40,
+            "res": 20,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 2,
+            "mag": -1,
+            "dex": 1,
+            "spd": 0,
+            "lck": -1,
+            "def": 2,
+            "res": -2,
+            "bld": 0
+        }
+    },
+    "艾媞耶": {
+        "avatar":"EtieFE17Portrait.webp",
+        "name": "艾媞耶",
+        "className": "弓箭手",
+        "level": {
+            "showLevel": 4,
+            "actualLevel": 4
+        },
+        "initAttribute": {
+            "hp": 21,
+            "str": 10,
+            "mag": 0,
+            "dex": 11,
+            "spd": 6,
+            "lck": 8,
+            "def": 3,
+            "res": 2,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 45,
+            "str": 40,
+            "mag": 0,
+            "dex": 25,
+            "spd": 35,
+            "lck": 25,
+            "def": 25,
+            "res": 30,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 2,
+            "mag": -2,
+            "dex": 2,
+            "spd": 0,
+            "lck": -1,
+            "def": 0,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "布修隆": {
+        "avatar":"BoucheronFE17Portrait.webp",
+        "name": "布修隆",
+        "className": "斧战士",
+        "level": {
+            "showLevel": 4,
+            "actualLevel": 4
+        },
+        "initAttribute": {
+            "hp": 29,
+            "str": 10,
+            "mag": 0,
+            "dex": 8,
+            "spd": 7,
+            "lck": 5,
+            "def": 6,
+            "res": 3,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 85,
+            "str": 20,
+            "mag": 0,
+            "dex": 50,
+            "spd": 45,
+            "lck": 15,
+            "def": 35,
+            "res": 20,
+            "bld": 20
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": 0,
+            "dex": 2,
+            "spd": 2,
+            "lck": -2,
+            "def": -2,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "锡莉奴": {
+        "avatar":"C%3FlineFE17Portrait.webp",
+        "name": "锡莉奴",
+        "className": "王室贵族（锡莉奴）",
+        "level": {
+            "showLevel": 5,
+            "actualLevel": 5
+        },
+        "initAttribute": {
+            "hp": 22,
+            "str": 7,
+            "mag": 9,
+            "dex": 9,
+            "spd": 10,
+            "lck": 11,
+            "def": 5,
+            "res": 7,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 50,
+            "str": 35,
+            "mag": 25,
+            "dex": 30,
+            "spd": 45,
+            "lck": 50,
+            "def": 30,
+            "res": 40,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -2,
+            "mag": 2,
+            "dex": -2,
+            "spd": 1,
+            "lck": 3,
+            "def": -3,
+            "res": 1,
+            "bld": 0
+        }
+    },
+    "克萝艾": {
+        "avatar":"Chlo%3FFE17Portrait.webp",
+        "name": "克萝艾",
+        "className": "枪飞马骑士",
+        "level": {
+            "showLevel": 6,
+            "actualLevel": 6
+        },
+        "initAttribute": {
+            "hp": 26,
+            "str": 8,
+            "mag": 4,
+            "dex": 13,
+            "spd": 13,
+            "lck": 10,
+            "def": 5,
+            "res": 9,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 75,
+            "str": 25,
+            "mag": 35,
+            "dex": 40,
+            "spd": 55,
+            "lck": 25,
+            "def": 30,
+            "res": 25,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -2,
+            "mag": 1,
+            "dex": 0,
+            "spd": 3,
+            "lck": 0,
+            "def": -1,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "路易": {
+        "avatar":"LouisFE17Portrait.webp",
+        "name": "路易",
+        "className": "重枪兵",
+        "level": {
+            "showLevel": 6,
+            "actualLevel": 6
+        },
+        "initAttribute": {
+            "hp": 30,
+            "str": 13,
+            "mag": 0,
+            "dex": 11,
+            "spd": 3,
+            "lck": 4,
+            "def": 16,
+            "res": 1,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 75,
+            "str": 40,
+            "mag": 0,
+            "dex": 25,
+            "spd": 25,
+            "lck": 25,
+            "def": 50,
+            "res": 20,
+            "bld": 15
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": 0,
+            "dex": -1,
+            "spd": -2,
+            "lck": 1,
+            "def": 3,
+            "res": -2,
+            "bld": 0
+        }
+    },
+    "贾恩": {
+        "avatar":"JeanFE17Portrait.webp",
+        "name": "贾恩",
+        "className": "僧侣",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 1
+        },
+        "initAttribute": {
+            "hp": 19,
+            "str": 4,
+            "mag": 5,
+            "dex": 10,
+            "spd": 7,
+            "lck": 3,
+            "def": 4,
+            "res": 8,
+            "bld": 3
+        },
+        "growthRate": {
+            "hp": 50,
+            "str": 20,
+            "mag": 20,
+            "dex": 35,
+            "spd": 40,
+            "lck": 25,
+            "def": 25,
+            "res": 20,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 2,
+            "dex": -1,
+            "spd": -1,
+            "lck": 1,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "帝亚曼德": {
+        "avatar":"DiamantFE17Portrait.webp",
+        "name": "帝亚曼德",
+        "className": "领主（帝亚曼德）",
+        "level": {
+            "showLevel": 11,
+            "actualLevel": 11
+        },
+        "initAttribute": {
+            "hp": 32,
+            "str": 13,
+            "mag": 3,
+            "dex": 13,
+            "spd": 13,
+            "lck": 10,
+            "def": 10,
+            "res": 6,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 75,
+            "str": 30,
+            "mag": 15,
+            "dex": 20,
+            "spd": 40,
+            "lck": 20,
+            "def": 40,
+            "res": 25,
+            "bld": 15
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 2,
+            "mag": -1,
+            "dex": -1,
+            "spd": 0,
+            "lck": 0,
+            "def": 2,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "安巴": {
+        "avatar":"AmberFE17Portrait.webp",
+        "name": "安巴",
+        "className": "枪骑士",
+        "level": {
+            "showLevel": 11,
+            "actualLevel": 11
+        },
+        "initAttribute": {
+            "hp": 31,
+            "str": 15,
+            "mag": 2,
+            "dex": 13,
+            "spd": 11,
+            "lck": 9,
+            "def": 9,
+            "res": 3,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 65,
+            "str": 45,
+            "mag": 0,
+            "dex": 25,
+            "spd": 30,
+            "lck": 35,
+            "def": 35,
+            "res": 5,
+            "bld": 15
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 2,
+            "mag": -1,
+            "dex": -1,
+            "spd": -1,
+            "lck": 1,
+            "def": 1,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "洁德": {
+        "avatar":"JadeFE17Portrait.webp",
+        "name": "洁德",
+        "className": "重斧兵",
+        "level": {
+            "showLevel": 12,
+            "actualLevel": 12
+        },
+        "initAttribute": {
+            "hp": 33,
+            "str": 14,
+            "mag": 4,
+            "dex": 14,
+            "spd": 5,
+            "lck": 5,
+            "def": 18,
+            "res": 6,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 35,
+            "mag": 25,
+            "dex": 35,
+            "spd": 30,
+            "lck": 20,
+            "def": 40,
+            "res": 30,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": -1,
+            "dex": 0,
+            "spd": 0,
+            "lck": -1,
+            "def": 2,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "史塔卢克": {
+        "avatar":"AlcrystFE17Portrait.webp",
+        "name": "史塔卢克",
+        "className": "领主（史塔卢克）",
+        "level": {
+            "showLevel": 10,
+            "actualLevel": 10
+        },
+        "initAttribute": {
+            "hp": 28,
+            "str": 11,
+            "mag": 2,
+            "dex": 17,
+            "spd": 12,
+            "lck": 8,
+            "def": 8,
+            "res": 5,
+            "bld": 6
+        },
+        "growthRate": {
+            "hp": 65,
+            "str": 30,
+            "mag": 10,
+            "dex": 40,
+            "spd": 45,
+            "lck": 15,
+            "def": 30,
+            "res": 20,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": -1,
+            "dex": 3,
+            "spd": 0,
+            "lck": -1,
+            "def": 1,
+            "res": -2,
+            "bld": 0
+        }
+    },
+    "希特丽妮卡": {
+        "avatar":"CitrinneFE17Portrait.webp",
+        "name": "希特丽妮卡",
+        "className": "魔法师",
+        "level": {
+            "showLevel": 10,
+            "actualLevel": 10
+        },
+        "initAttribute": {
+            "hp": 24,
+            "str": 2,
+            "mag": 15,
+            "dex": 13,
+            "spd": 10,
+            "lck": 10,
+            "def": 3,
+            "res": 12,
+            "bld": 4
+        },
+        "growthRate": {
+            "hp": 45,
+            "str": 10,
+            "mag": 40,
+            "dex": 25,
+            "spd": 30,
+            "lck": 25,
+            "def": 20,
+            "res": 40,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -1,
+            "mag": 3,
+            "dex": 0,
+            "spd": -1,
+            "lck": 0,
+            "def": -2,
+            "res": 2,
+            "bld": 0
+        }
+    },
+    "菈琵思": {
+        "avatar":"LapisFE17Portrait.webp",
+        "name": "菈琵思",
+        "className": "刀剑战士",
+        "level": {
+            "showLevel": 10,
+            "actualLevel": 10
+        },
+        "initAttribute": {
+            "hp": 26,
+            "str": 11,
+            "mag": 2,
+            "dex": 12,
+            "spd": 14,
+            "lck": 7,
+            "def": 7,
+            "res": 6,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 25,
+            "mag": 20,
+            "dex": 35,
+            "spd": 55,
+            "lck": 25,
+            "def": 35,
+            "res": 30,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -2,
+            "mag": -2,
+            "dex": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "尤娜卡": {
+        "avatar":"YunakaFE17Portrait.webp",
+        "name": "尤娜卡",
+        "className": "小偷",
+        "level": {
+            "showLevel": 6,
+            "actualLevel": 6
+        },
+        "initAttribute": {
+            "hp": 25,
+            "str": 8,
+            "mag": 5,
+            "dex": 14,
+            "spd": 12,
+            "lck": 8,
+            "def": 9,
+            "res": 7,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 50,
+            "str": 35,
+            "mag": 25,
+            "dex": 40,
+            "spd": 45,
+            "lck": 25,
+            "def": 15,
+            "res": 45,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -1,
+            "mag": 0,
+            "dex": 1,
+            "spd": 2,
+            "lck": -1,
+            "def": -2,
+            "res": 2,
+            "bld": 0
+        }
+    },
+    "札菲亚": {
+        "avatar":"SaphirFE17Portrait.webp",
+        "name": "札菲亚",
+        "className": "勇士",
+        "level": {
+            "showLevel": 7,
+            "actualLevel": 19
+        },
+        "initAttribute": {
+            "hp": 51,
+            "str": 24,
+            "mag": 2,
+            "dex": 23,
+            "spd": 19,
+            "lck": 15,
+            "def": 19,
+            "res": 9,
+            "bld": 15
+        },
+        "growthRate": {
+            "hp": 80,
+            "str": 35,
+            "mag": 0,
+            "dex": 25,
+            "spd": 30,
+            "lck": 20,
+            "def": 30,
+            "res": 5,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 2,
+            "mag": -2,
+            "dex": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 1,
+            "res": -2,
+            "bld": 0
+        }
+    },
+    "艾比": {
+        "avatar":"IvyFE17Portrait.webp",
+        "name": "艾比",
+        "className": "驯兽师（艾比）",
+        "level": {
+            "showLevel": 17,
+            "actualLevel": 17
+        },
+        "initAttribute": {
+            "hp": 32,
+            "str": 7,
+            "mag": 17,
+            "dex": 15,
+            "spd": 13,
+            "lck": 4,
+            "def": 12,
+            "res": 15,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 25,
+            "mag": 30,
+            "dex": 25,
+            "spd": 40,
+            "lck": 15,
+            "def": 30,
+            "res": 35,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 2,
+            "dex": -2,
+            "spd": 0,
+            "lck": -3,
+            "def": 2,
+            "res": 2,
+            "bld": 0
+        }
+    },
+    "花月": {
+        "avatar":"KagetsuFE17Portrait.webp",
+        "name": "花月",
+        "className": "刀剑将领",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 15
+        },
+        "initAttribute": {
+            "hp": 35,
+            "str": 17,
+            "mag": 5,
+            "dex": 22,
+            "spd": 22,
+            "lck": 17,
+            "def": 14,
+            "res": 10,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 60,
+            "str": 30,
+            "mag": 15,
+            "dex": 50,
+            "spd": 50,
+            "lck": 40,
+            "def": 40,
+            "res": 25,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -1,
+            "mag": -1,
+            "dex": 2,
+            "spd": 2,
+            "lck": 1,
+            "def": 0,
+            "res": -2,
+            "bld": 0
+        }
+    },
+    "杰尔科巴": {
+        "avatar":"ZelkovFE17Portrait.webp",
+        "name": "杰尔科巴",
+        "className": "小偷",
+        "level": {
+            "showLevel": 17,
+            "actualLevel": 17
+        },
+        "initAttribute": {
+            "hp": 35,
+            "str": 15,
+            "mag": 3,
+            "dex": 19,
+            "spd": 19,
+            "lck": 7,
+            "def": 14,
+            "res": 5,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 65,
+            "str": 35,
+            "mag": 15,
+            "dex": 40,
+            "spd": 35,
+            "lck": 25,
+            "def": 35,
+            "res": 15,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": -1,
+            "dex": 2,
+            "spd": 0,
+            "lck": 1,
+            "def": 0,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "奥尔坦希亚": {
+        "avatar":"HortensiaFE17Portrait.webp",
+        "name": "奥尔坦希亚",
+        "className": "驯兽师（奥尔坦希亚）",
+        "level": {
+            "showLevel": 19,
+            "actualLevel": 19
+        },
+        "initAttribute": {
+            "hp": 27,
+            "str": 5,
+            "mag": 12,
+            "dex": 21,
+            "spd": 19,
+            "lck": 17,
+            "def": 6,
+            "res": 23,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 40,
+            "str": 20,
+            "mag": 20,
+            "dex": 35,
+            "spd": 50,
+            "lck": 50,
+            "def": 25,
+            "res": 55,
+            "bld": 0
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -2,
+            "mag": 0,
+            "dex": 0,
+            "spd": 1,
+            "lck": 2,
+            "def": -3,
+            "res": 3,
+            "bld": 0
+        }
+    },
+    "罗萨德": {
+        "avatar":"RosadoFE17Portrait.webp",
+        "name": "罗萨德",
+        "className": "飞龙骑士",
+        "level": {
+            "showLevel": 3,
+            "actualLevel": 17
+        },
+        "initAttribute": {
+            "hp": 44,
+            "str": 16,
+            "mag": 7,
+            "dex": 19,
+            "spd": 21,
+            "lck": 8,
+            "def": 15,
+            "res": 11,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 75,
+            "str": 45,
+            "mag": 25,
+            "dex": 40,
+            "spd": 45,
+            "lck": 20,
+            "def": 30,
+            "res": 30,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 3,
+            "mag": -2,
+            "dex": 1,
+            "spd": 0,
+            "lck": 0,
+            "def": 1,
+            "res": -2,
+            "bld": 0
+        }
+    },
+    "戈尔德玛莉": {
+        "avatar":"GoldmaryFE17Portrait.webp",
+        "name": "戈尔德玛莉",
+        "className": "无畏英雄",
+        "level": {
+            "showLevel": 3,
+            "actualLevel": 17
+        },
+        "initAttribute": {
+            "hp": 40,
+            "str": 17,
+            "mag": 2,
+            "dex": 18,
+            "spd": 20,
+            "lck": 13,
+            "def": 20,
+            "res": 12,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 65,
+            "str": 30,
+            "mag": 5,
+            "dex": 25,
+            "spd": 25,
+            "lck": 25,
+            "def": 55,
+            "res": 25,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": -3,
+            "dex": 0,
+            "spd": 0,
+            "lck": 2,
+            "def": 2,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "安娜": {
+        "avatar":"AnnaFE17Portrait.webp",
+        "name": "安娜",
+        "className": "斧战士",
+        "level": {
+            "showLevel": 5,
+            "actualLevel": 5
+        },
+        "initAttribute": {
+            "hp": 29,
+            "str": 10,
+            "mag": 2,
+            "dex": 9,
+            "spd": 7,
+            "lck": 3,
+            "def": 4,
+            "res": 5,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 15,
+            "mag": 50,
+            "dex": 50,
+            "spd": 50,
+            "lck": 45,
+            "def": 20,
+            "res": 35,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 1,
+            "dex": 1,
+            "spd": 1,
+            "lck": 1,
+            "def": -2,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "霖丹": {
+        "avatar":"LindonFE17Portrait.webp",
+        "name": "霖丹",
+        "className": "圣者",
+        "level": {
+            "showLevel": 5,
+            "actualLevel": 18
+        },
+        "initAttribute": {
+            "hp": 38,
+            "str": 8,
+            "mag": 19,
+            "dex": 21,
+            "spd": 19,
+            "lck": 8,
+            "def": 12,
+            "res": 21,
+            "bld": 10
+        },
+        "growthRate": {
+            "hp": 65,
+            "str": 25,
+            "mag": 25,
+            "dex": 25,
+            "spd": 40,
+            "lck": 15,
+            "def": 25,
+            "res": 40,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 2,
+            "dex": -1,
+            "spd": 0,
+            "lck": 0,
+            "def": -2,
+            "res": 2,
+            "bld": 0
+        }
+    },
+    "蜜丝提拉": {
+        "avatar":"TimerraFE17Portrait.webp",
+        "name": "蜜丝提拉",
+        "className": "义警队（蜜丝提拉）",
+        "level": {
+            "showLevel": 18,
+            "actualLevel": 18
+        },
+        "initAttribute": {
+            "hp": 35,
+            "str": 14,
+            "mag": 6,
+            "dex": 17,
+            "spd": 18,
+            "lck": 10,
+            "def": 16,
+            "res": 8,
+            "bld": 5
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 25,
+            "mag": 25,
+            "dex": 45,
+            "spd": 45,
+            "lck": 30,
+            "def": 30,
+            "res": 30,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -1,
+            "mag": -1,
+            "dex": 3,
+            "spd": 0,
+            "lck": 1,
+            "def": 2,
+            "res": -3,
+            "bld": 0
+        }
+    },
+    "帕涅托涅": {
+        "avatar":"PanetteFE17Portrait.webp",
+        "name": "帕涅托涅",
+        "className": "狂斗士",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 15
+        },
+        "initAttribute": {
+            "hp": 46,
+            "str": 25,
+            "mag": 3,
+            "dex": 19,
+            "spd": 13,
+            "lck": 11,
+            "def": 11,
+            "res": 7,
+            "bld": 11
+        },
+        "growthRate": {
+            "hp": 75,
+            "str": 45,
+            "mag": 10,
+            "dex": 40,
+            "spd": 25,
+            "lck": 20,
+            "def": 30,
+            "res": 15,
+            "bld": 15
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 3,
+            "mag": -1,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "玫琳": {
+        "avatar":"MerrinFE17Portrait.webp",
+        "name": "玫琳",
+        "className": "狼骑士",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 15
+        },
+        "initAttribute": {
+            "hp": 36,
+            "str": 15,
+            "mag": 10,
+            "dex": 21,
+            "spd": 21,
+            "lck": 14,
+            "def": 12,
+            "res": 12,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 25,
+            "mag": 25,
+            "dex": 40,
+            "spd": 50,
+            "lck": 25,
+            "def": 30,
+            "res": 30,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -1,
+            "mag": -1,
+            "dex": 1,
+            "spd": 2,
+            "lck": 1,
+            "def": -1,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "佛贾特": {
+        "avatar":"FogadoFE17Portrait.webp",
+        "name": "佛贾特",
+        "className": "义警队（佛贾特）",
+        "level": {
+            "showLevel": 17,
+            "actualLevel": 17
+        },
+        "initAttribute": {
+            "hp": 33,
+            "str": 12,
+            "mag": 7,
+            "dex": 17,
+            "spd": 18,
+            "lck": 8,
+            "def": 10,
+            "res": 11,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 60,
+            "str": 30,
+            "mag": 25,
+            "dex": 30,
+            "spd": 55,
+            "lck": 25,
+            "def": 30,
+            "res": 35,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -1,
+            "mag": -1,
+            "dex": 0,
+            "spd": 3,
+            "lck": 0,
+            "def": -1,
+            "res": 1,
+            "bld": 0
+        }
+    },
+    "庞德罗": {
+        "avatar":"PandreoFE17Portrait.webp",
+        "name": "庞德罗",
+        "className": "主教",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 15
+        },
+        "initAttribute": {
+            "hp": 34,
+            "str": 7,
+            "mag": 16,
+            "dex": 18,
+            "spd": 17,
+            "lck": 14,
+            "def": 8,
+            "res": 22,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 60,
+            "str": 5,
+            "mag": 30,
+            "dex": 45,
+            "spd": 45,
+            "lck": 30,
+            "def": 15,
+            "res": 55,
+            "bld": 15
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -3,
+            "mag": 2,
+            "dex": 0,
+            "spd": -1,
+            "lck": 2,
+            "def": -2,
+            "res": 3,
+            "bld": 0
+        }
+    },
+    "波聂": {
+        "avatar":"BunetFE17Portrait.webp",
+        "name": "波聂",
+        "className": "英勇骑士",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 15
+        },
+        "initAttribute": {
+            "hp": 41,
+            "str": 15,
+            "mag": 5,
+            "dex": 15,
+            "spd": 9,
+            "lck": 13,
+            "def": 20,
+            "res": 8,
+            "bld": 11
+        },
+        "growthRate": {
+            "hp": 65,
+            "str": 30,
+            "mag": 10,
+            "dex": 40,
+            "spd": 35,
+            "lck": 40,
+            "def": 45,
+            "res": 25,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": -3,
+            "dex": 1,
+            "spd": 0,
+            "lck": 1,
+            "def": 2,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "赛安达斯": {
+        "avatar":"SeadallFE17Portrait.webp",
+        "name": "赛安达斯",
+        "className": "舞蹈家（赛安达斯）",
+        "level": {
+            "showLevel": 15,
+            "actualLevel": 15
+        },
+        "initAttribute": {
+            "hp": 33,
+            "str": 12,
+            "mag": 4,
+            "dex": 15,
+            "spd": 16,
+            "lck": 11,
+            "def": 10,
+            "res": 10,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 25,
+            "mag": 15,
+            "dex": 25,
+            "spd": 50,
+            "lck": 35,
+            "def": 25,
+            "res": 25,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": -2,
+            "dex": -1,
+            "spd": 2,
+            "lck": 2,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "莫布": {
+        "avatar":"MauvierFE17Portrait.webp",
+        "name": "莫布",
+        "className": "皇家骑士",
+        "level": {
+            "showLevel": 12,
+            "actualLevel": 20
+        },
+        "initAttribute": {
+            "hp": 51,
+            "str": 21,
+            "mag": 23,
+            "dex": 25,
+            "spd": 22,
+            "lck": 16,
+            "def": 26,
+            "res": 24,
+            "bld": 12
+        },
+        "growthRate": {
+            "hp": 70,
+            "str": 35,
+            "mag": 40,
+            "dex": 40,
+            "spd": 35,
+            "lck": 15,
+            "def": 50,
+            "res": 45,
+            "bld": 15
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 1,
+            "mag": 2,
+            "dex": 1,
+            "spd": -2,
+            "lck": -2,
+            "def": 1,
+            "res": 1,
+            "bld": 0
+        }
+    },
+    "贝珥": {
+        "avatar":"VeyleFE17Portrait.webp",
+        "name": "贝珥",
+        "className": "邪龙之女（贝珥）",
+        "level": {
+            "showLevel": 35,
+            "actualLevel": 35
+        },
+        "initAttribute": {
+            "hp": 35,
+            "str": 20,
+            "mag": 26,
+            "dex": 24,
+            "spd": 23,
+            "lck": 18,
+            "def": 17,
+            "res": 29,
+            "bld": 7
+        },
+        "growthRate": {
+            "hp": 40,
+            "str": 25,
+            "mag": 45,
+            "dex": 35,
+            "spd": 30,
+            "lck": 20,
+            "def": 25,
+            "res": 35,
+            "bld": 0
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 3,
+            "dex": 0,
+            "spd": -1,
+            "lck": -2,
+            "def": 0,
+            "res": 3,
+            "bld": 0
+        }
+    },
+    "赛勒斯提雅": {
+        "avatar":"ZelestiaFE17Portrait.webp",
+        "name": "赛勒斯提雅",
+        "className": "美露莘（赛勒斯提雅）",
+        "level": {
+            "showLevel": 20,
+            "actualLevel": 20
+        },
+        "initAttribute": {
+            "hp": 38,
+            "str": 17,
+            "mag": 18,
+            "dex": 16,
+            "spd": 20,
+            "lck": 7,
+            "def": 15,
+            "res": 19,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 60,
+            "str": 35,
+            "mag": 35,
+            "dex": 35,
+            "spd": 50,
+            "lck": 20,
+            "def": 30,
+            "res": 35,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 1,
+            "dex": 0,
+            "spd": 2,
+            "lck": -3,
+            "def": 1,
+            "res": 1,
+            "bld": 0
+        }
+    },
+    "孤雷葛里": {
+        "avatar":"GregoryFE17Portrait.webp",
+        "name": "孤雷葛里",
+        "className": "圣者",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 20
+        },
+        "initAttribute": {
+            "hp": 35,
+            "str": 10,
+            "mag": 25,
+            "dex": 13,
+            "spd": 13,
+            "lck": 9,
+            "def": 13,
+            "res": 25,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 30,
+            "mag": 50,
+            "dex": 20,
+            "spd": 25,
+            "lck": 25,
+            "def": 35,
+            "res": 50,
+            "bld": 5
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": -2,
+            "mag": 3,
+            "dex": -2,
+            "spd": -2,
+            "lck": 2,
+            "def": 0,
+            "res": 3,
+            "bld": 0
+        }
+    },
+    "玛德琳": {
+        "avatar":"MadelineFE17Portrait.webp",
+        "name": "玛德琳",
+        "className": "将军",
+        "level": {
+            "showLevel": 1,
+            "actualLevel": 20
+        },
+        "initAttribute": {
+            "hp": 46,
+            "str": 24,
+            "mag": 6,
+            "dex": 12,
+            "spd": 7,
+            "lck": 9,
+            "def": 27,
+            "res": 9,
+            "bld": 13
+        },
+        "growthRate": {
+            "hp": 75,
+            "str": 50,
+            "mag": 20,
+            "dex": 15,
+            "spd": 15,
+            "lck": 25,
+            "def": 55,
+            "res": 25,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 3,
+            "mag": 0,
+            "dex": -2,
+            "spd": -2,
+            "lck": 0,
+            "def": 3,
+            "res": -1,
+            "bld": 0
+        }
+    },
+    "爱尔": {
+        "avatar":"NelFE17Portrait.webp",
+        "name": "爱尔",
+        "className": "邪龙之女（爱尔）",
+        "level": {
+            "showLevel": 20,
+            "actualLevel": 20
+        },
+        "initAttribute": {
+            "hp": 35,
+            "str": 14,
+            "mag": 12,
+            "dex": 17,
+            "spd": 19,
+            "lck": 16,
+            "def": 14,
+            "res": 15,
+            "bld": 8
+        },
+        "growthRate": {
+            "hp": 55,
+            "str": 30,
+            "mag": 25,
+            "dex": 40,
+            "spd": 45,
+            "lck": 30,
+            "def": 30,
+            "res": 35,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        }
+    },
+    "拉法尔": {
+        "avatar":"NilFE17Portrait.webp",
+        "name": "拉法尔",
+        "className": "邪龙之子（拉法尔）",
+        "level": {
+            "showLevel": 20,
+            "actualLevel": 20
+        },
+        "initAttribute": {
+            "hp": 39,
+            "str": 19,
+            "mag": 7,
+            "dex": 17,
+            "spd": 16,
+            "lck": 12,
+            "def": 20,
+            "res": 11,
+            "bld": 9
+        },
+        "growthRate": {
+            "hp": 70,
+            "str": 40,
+            "mag": 10,
+            "dex": 40,
+            "spd": 35,
+            "lck": 10,
+            "def": 45,
+            "res": 20,
+            "bld": 10
+        },
+        "upperLimitCorrectedValue": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        }
+    }
+}
